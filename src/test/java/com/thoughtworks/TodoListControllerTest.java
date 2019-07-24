@@ -1,8 +1,8 @@
-package com.dyt;
+package com.thoughtworks;
 
-import com.dyt.pojo.Todo;
-import com.dyt.responsitory.TodoListResponsitory;
-import com.dyt.service.TodoListService;
+import com.thoughtworks.pojo.Todo;
+import com.thoughtworks.responsitory.TodoListResponsitory;
+import com.thoughtworks.service.TodoListService;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.junit.jupiter.api.Assertions;
