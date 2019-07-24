@@ -1,7 +1,7 @@
-package com.dyt.service;
+package com.thoughtworks.service;
 
-import com.dyt.pojo.Todo;
-import com.dyt.responsitory.TodoListResponsitory;
+import com.thoughtworks.pojo.Todo;
+import com.thoughtworks.responsitory.TodoListResponsitory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
