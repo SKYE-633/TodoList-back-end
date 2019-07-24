@@ -1,4 +1,4 @@
-package com.dyt.pojo;
+package com.thoughtworks.dao;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
