@@ -1,7 +1,7 @@
-package com.dyt.controller;
+package com.thoughtworks.controller;
 
-import com.dyt.pojo.Todo;
-import com.dyt.service.TodoListService;
+import com.thoughtworks.pojo.Todo;
+import com.thoughtworks.service.TodoListService;
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
