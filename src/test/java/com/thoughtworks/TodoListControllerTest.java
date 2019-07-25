@@ -1,6 +1,6 @@
 package com.thoughtworks;
 
-import com.thoughtworks.pojo.Todo;
+import com.thoughtworks.dao.Todo;
 import com.thoughtworks.responsitory.TodoListResponsitory;
 import com.thoughtworks.service.TodoListService;
 import org.json.JSONArray;
