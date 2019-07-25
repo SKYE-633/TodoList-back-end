@@ -1,6 +1,6 @@
 package com.thoughtworks.responsitory;
 
-import com.thoughtworks.pojo.Todo;
+import com.thoughtworks.dao.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
